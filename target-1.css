@@ -1,0 +1,10 @@
+body {
+    background-color: aquamarine;
+}
+.class-tombol {
+    color: brown;
+    padding: 10px;
+    border-radius: 12px;
+    align-items: center;
+    margin-top: 5px;
+}
